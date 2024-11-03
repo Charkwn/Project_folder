@@ -1,0 +1,6 @@
+streamlit
+pandas
+plotly  # replaces plotly.express
+python-dotenv  # replaces dotenv
+openai
+tiktoken
